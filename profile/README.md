@@ -1,4 +1,4 @@
-![hello](https://unpkg.com/hello-picture@2.0.21/src/static/1000.webp)
+<img src="https://unpkg.com/hello-picture@2.0.21/src/static/1000.webp" alt="hello" style="zoom: 50%;" />
 
 
 ## 🍿 关于我们
