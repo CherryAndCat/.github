@@ -1,4 +1,4 @@
-<img src="https://unpkg.com/hello-picture@2.0.21/src/static/1000.webp" alt="hello" style="zoom: 30%;" />
+<img src="https://unpkg.com/hello-picture@2.0.21/src/static/1000.webp" alt="hello" style="height: 350px;" />
 
 
 ## 🍿 关于我们
